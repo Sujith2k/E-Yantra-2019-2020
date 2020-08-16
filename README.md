@@ -5,3 +5,9 @@ Resources used:
   E-YRC Mega - A hybrid board containing ATMEGA2560 and ESP32
 
 Embedded C was used for programming ATMEGA2560 and ESP32, and Python for Server - Client communications between a computer and ESP32.
+
+Task 4 Implementation link:
+https://youtu.be/4EMbYsJKjSA
+
+Task 3 Implementattion link:
+https://youtu.be/v5NAqmesD3E
